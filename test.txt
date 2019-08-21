@@ -4,3 +4,4 @@ git test 远程库
 git test add something new
 git test modify
 git test add one new branch dev
+git test master and dev merge
