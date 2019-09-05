@@ -3,3 +3,5 @@ git test wanghh
 git test Ô¶³Ì¿â
 git test add something new
 git test modify
+git test add one new branch dev
+git test dev and master merge
